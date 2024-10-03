@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "firstName": "Chandrakanth reddy",
+      "lastName": "Rajamuri",
+      "email": "chandrakanth@gmail.com",
+      "dob": "2024-10-08T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "Google",
+      "experience": 3,
+      "package": 15,
+      "id": "9c46"
+    },
+    {
+      "firstName": "Naveen",
+      "lastName": "Kumar",
+      "email": "ghj@gmail.com",
+      "dob": "2000-02-15T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "Accenture",
+      "experience": 4,
+      "package": 10,
+      "id": "9197"
+    }
+  ]
+}
